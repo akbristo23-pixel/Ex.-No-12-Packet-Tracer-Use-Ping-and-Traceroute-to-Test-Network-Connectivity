@@ -118,11 +118,17 @@ show ip interface brief	Verify IPv4 interface status<br>
 show ipv6 interface brief	Verify IPv6 interface status<br>
 ________________________________________
 # Output (Attach Screenshots)
+
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/548d9dbb-15b1-4f0f-84ec-149b0fe67924" />
+
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/eaade37a-4a48-43c4-b136-acabc0d643ee" />
+
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ced04dd4-c586-44b9-8d60-20b542ca5049" />
+
 <img width="966" height="1008" alt="image" src="https://github.com/user-attachments/assets/9048d705-aa28-4db3-adb6-41289a06a471" />
+
 <img width="937" height="965" alt="image" src="https://github.com/user-attachments/assets/7585109e-f0f9-46e2-ac5b-1cd9b74bd9bd" />
+
 <img width="952" height="847" alt="image" src="https://github.com/user-attachments/assets/61e61e87-3a47-46b7-be17-876b3c175507" />
 
 ________________________________________<br>
